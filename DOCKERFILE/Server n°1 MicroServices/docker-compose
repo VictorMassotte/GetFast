@@ -1,0 +1,35 @@
+version: '3'
+services:
+  api-article:
+    image: 'getfast/api-article:latest'
+    ports:
+      - "3001:3000"
+    environment:
+
+
+  api-menu:
+    image: 'getfast/api-menu:latest'
+    ports:
+      - "3002:3000"
+    environment:
+
+
+  api-order:
+    image: 'getfast/api-order:latest'
+    ports:
+      - "3003:3000"
+    environment:
+
+
+  api-restaurant:
+    image: 'getfast/api-restaurant:latest'
+    ports:
+      - "3004:3000"
+    environment:
+
+
+  api-user:
+      image: 'getfast/api-user:latest'
+      ports:
+        - "3005:3000"
+      environment:

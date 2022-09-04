@@ -1,0 +1,15 @@
+version: '3'
+services:
+  api-gateway:
+    image: 'getfast/api-gateway:latest'
+    ports:
+      - "3080:3000"
+    environment:
+    - API_URL=/api/v1/
+    - API_LOGIN=/api/v1/auth/
+    - API_ARTICLE=/api/v1/article/
+    - API_MENU=/api/v1/menu/
+    - API_ORDER=/api/v1/order/
+    - API_USERS=/api/v1/users/
+    - API_SERVICE=/api/v1/service/
+    - PORT=3000
