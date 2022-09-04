@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e7f54fe0.css",
+    "main.js": "/static/js/main.123c398b.js",
+    "static/js/787.6d185335.chunk.js": "/static/js/787.6d185335.chunk.js",
+    "static/media/logoBanner.png": "/static/media/logoBanner.8b47d406ffa2b6f041df.png",
+    "static/media/logo.png": "/static/media/logo.b26c2e1417e811e8ff68.png",
+    "static/media/gt-america-extended-medium.latin-webfont.woff": "/static/media/gt-america-extended-medium.latin-webfont.bb158ffdef031e197427.woff",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.e7f54fe0.css.map": "/static/css/main.e7f54fe0.css.map",
+    "main.123c398b.js.map": "/static/js/main.123c398b.js.map",
+    "787.6d185335.chunk.js.map": "/static/js/787.6d185335.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7f54fe0.css",
+    "static/js/main.123c398b.js"
+  ]
+}

@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: "GTAmerica";
+  src: local("GTAmerica"),
+   url("./Fonts/gt-america-extended-medium.latin-webfont.woff") format("woff");
+  font-weight: normal;
+  }
+
+.MuiStepLabel-label {
+  color: white !important;
+  margin-top: 0px !important;
+  margin-bottom: 10px !important;
+}
+
+  
